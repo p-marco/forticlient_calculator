@@ -3,3 +3,4 @@ logs/*
 *.bak
 *.csv
 *.log
+venv/*
